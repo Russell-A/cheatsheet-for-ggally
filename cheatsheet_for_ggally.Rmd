@@ -1,0 +1,12 @@
+---
+title: "cheatsheet for GGally"
+author: "Xinhao Dai"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+# Introductions of GGally
+
+Xinhao Dai
+
+ggplot2 is a R package for plotting based on grammar of graphics. GGally is a extension of ggplot2. It adds several functions to reduce the difficulties of combining different geoms. To enable novices to quickly start using the packet, I create a cheatsheet for GGally.
